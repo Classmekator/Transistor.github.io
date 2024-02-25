@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8">    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Transistor</title>
+    </head>
+    <body>
+<h2>
+    
+    Pengertian, Jenis dan cara kerja dari sebuah transistor
+</h2>
+<h3>
+    Pengertian:
+</h3>
+<h4>
+    <legend>
+        Transistor adalah komponen semikonduktor yang memiliki berbagai macam fungsi seperti sebagai penguat, pengendali, penyearah, osilator, modulator dan lain sebagainya. Transistor merupakan salah satu komponen semikonduktor yang paling banyak ditemukan dalam rangkaian-rangkaian elektronika. Boleh dikatakan bahwa hampir semua perangkat elektronik menggunakan Transistor untuk berbagai kebutuhan dalam rangkaiannya. Perangkat-perangkat elektronik yang dimaksud tersebut seperti Televisi, Komputer, Ponsel, Audio Amplifier, Audio Player, Video Player, konsol Game, Power Supply dan lain-lainnya.
+    </legend>
+</h4>
+<h3>
+    Jenis jenis transistor:
+</h3>
+<h4>
+    <p>
+<ol><li>Transistor NPN</li>
+Konfigurasi transistor yang paling umum digunakan adalah Transistor NPN. Persimpangan transistor bipolar dapat menjadi bias dalam salah satu dari tiga cara yang berbeda Common Base, Common Emitter dan Common Collector. Dalam sub bab ini,  transistor bipolar akan dilihat lebih detail.
+<p>Transistor NPN Bipolar dengan contoh konstruksi beserta karakteristik arus transistor diberikan sebagai berikut.
+</p>
+<img src="http://muji.blog.unimma.ac.id/wp-content/uploads/sites/2/2023/03/Konfigurasi-transistor-NPN.gif">
+</p>
+
+    <li>Transistor PNP</li>
+    Pada dasarnya, transistor tipe PNP kebalikan dari NPN dengan konfigurasi Positif-Negatif-Positif, dengan panah yang juga mendefinisikan terminal Emitor yang mengarah ke dalam simbol transistor. Juga, semua polaritas untuk transistor PNP dibalik yang berarti “masuk” ke Base-nya sebagai lawan transistor NPN yang “sumbernya” mengalir melalui Base-nya. Perbedaan utama antara dua jenis transistor adalah bahwa hole adalah pembawa yang lebih penting untuk transistor PNP, 
+    sedangkan elektron merupakan pembawa penting transistor NPN.  
+    <p>Berikut contoh kontruksi Transistor PNP</p>
+    <img src="http://muji.blog.unimma.ac.id/wp-content/uploads/sites/2/2023/03/Konfigurasi-transistor-PNP.gif">
+
+</ol> 
+<h3> Cara Kerja Transistor</h3>
+<h4><ol>
+    <li>Cara kerja transistor NPN sebagai saklar</li>
+    Ketika saklar pada terminal basis pada posisi terbuka (open), maka tidak ada arus yang mengalir pada basisi sehingga transistor akan masuk pada mode cut off dan membuat transistor menjadi OFF dan membuat sirkuit menjadi terbuka dan LED tidak akan menyala.
+
+Namun ketika saklar pada terminal basis pada posisi tertutup (closed), arus listrik akan mengalir melalui basis dan membuat transistor masuk pada mode saturasi dan membuat LED menyala.
+
+Resistor sendiri berfungsi untuk membatasi jumlah arus yang melalui basis dan LED.
+<img src="https://assets-global.website-files.com/62709318493cafbb465ed770/6290f8669fae2a4b54ee9104_60c380b548407a43794f6c78_Gambar%2520rangkaian%2520transistor%2520untukmenyalakan%2520LED%25C2%25A0.png">
+<li>Cara kerja transistor PNP sebagai saklar</li>
+Cara kerja dari transistor PNP sebaliknya yaitu transistor akan ON bukan ketika diberikan input seperti tipe NPN. Tetapi, saat tegangan mengalir keluar dari basisi ke ground. Hal ini menjadikan arus akan aktif dan membuat arus mengalir dari kolektor ke emitor.
+
+ 
+
+Secara sederhana, cara mengaktifkan transistor PNP yaitu dengan menyambungkan kaki dari basis ke ground. Akan tetapi, transistor PNP sulit menjadi switch atau menjadi sakelar. Hal ini menjadikan transistor jenis PNP jarang digunakan dan diminati oleh masyarakat.
+<img src="https://www.ulvac.co.id/wp-content/uploads/2022/12/Transistor-PNP.png"
+
+</h4>
+    </body>
+   </html> 
